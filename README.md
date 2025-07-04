@@ -1,0 +1,1 @@
+# webpack-amd-publicpath_auto
