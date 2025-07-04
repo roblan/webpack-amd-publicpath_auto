@@ -1,1 +1,6 @@
-# webpack-amd-publicpath_auto
+how to reproduce
+```
+npm install
+npm run start
+open http://localhost:8080
+```
