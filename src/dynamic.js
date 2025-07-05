@@ -1,3 +1,1 @@
-import text from 'dependency';
-
-export default text;
+export default x => x;
